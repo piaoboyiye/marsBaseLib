@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaseLib</string>
+
+    <string name="refresh_header_normal">下拉刷新</string>
+    <string name="refresh_header_release">松开刷新</string>
+    <string name="refresh_header_refreshing">刷新中...</string>
+    <string name="refresh_header_refreshing_done">刷新完成</string>
+
+    <string name="refresh_footer_loading">正在努力加载</string>
+    <string name="refresh_footer_loading_done">加载完成</string>
+    <string name="refresh_footer_nomore">没有了</string>
+    <integer name="activity_anim_duration">300</integer>
+
+</resources>

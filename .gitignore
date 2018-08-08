@@ -1,0 +1,15 @@
+# Android
+local.properties
+*.DS_Store
+**/captures
+# Gradle
+**/.gradle
+**/.settings
+**/build
+
+# Intellij
+*.ipr
+*.iml
+*.iws
+**/.idea
+
